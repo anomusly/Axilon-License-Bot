@@ -393,4 +393,4 @@ This project is licensed under the ISC License.
 
 ---
 
-**Created by YouSeeMeRunning | Axilon License System v1.2.1**
+**Created by Anomusly | Axilon License System v1.2.1**
